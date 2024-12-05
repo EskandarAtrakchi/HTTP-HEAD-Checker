@@ -1,5 +1,3 @@
-# URL-Connection-Tester
-
 # HTTP HEAD Checker
 
 A simple Java application that sends an HTTP HEAD request to a specified web server URL and displays the server's response. If no URL is specified, the application defaults to `http://nginx.org/`.
