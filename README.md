@@ -54,6 +54,21 @@ A simple Java application that sends an HTTP HEAD request to a specified web ser
 
 ## Screenshots
 
+### Default URL 
+
 ![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Empty%20input.png?raw=true)
+------------
+![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Empty%20input%20confirmation.png?raw=true)
+------------
+![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/default%20response.png?raw=true)
+
+### https://www.google.com/
+
+![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Google%20input.png?raw=true)
+------------
+![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Google%20input%20confirmation.png?raw=true)
+------------
+![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Google%20response.png?raw=true)
+
 
 Made with ❤️ by Eskandar Atrakchi
