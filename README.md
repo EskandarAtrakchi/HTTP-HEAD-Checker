@@ -54,6 +54,6 @@ A simple Java application that sends an HTTP HEAD request to a specified web ser
 
 ## Screenshots
 
-https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Empty%20input.png?raw=true 
+![Alt Text](https://github.com/EskandarAtrakchi/HTTP-HEAD-Checker/blob/main/Screenshots/Empty%20input.png?raw=true)
 
 Made with ❤️ by Eskandar Atrakchi
