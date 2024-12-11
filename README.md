@@ -1,6 +1,7 @@
 # HTTP HEAD Checker
 
 A simple Java application that sends an HTTP HEAD request to a specified web server URL and displays the server's response. If no URL is specified, the application defaults to `http://nginx.org/`.
+https://eskandar-atrakchi.gitbook.io/socket-ca3-advance-networking-year-3 
 
 ## Features
 - Sends an HTTP HEAD request to check the status of a URL.
