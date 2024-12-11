@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [HTTP HEAD Checker](README.md)
+* [How to Run](how-to-run.md)
+* [Technologies Used](technologies-used.md)
+* [Tests & Screenshots](tests-and-screenshots.md)
